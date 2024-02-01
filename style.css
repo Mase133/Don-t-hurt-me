@@ -1,0 +1,15 @@
+.main-div {
+    max-width: 20%;
+    background-color: black;
+    padding: 30px;
+}
+.tenor-gif-embed {
+    border: 5px solid white;
+
+}
+h1, p {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    text-align: center;
+}
